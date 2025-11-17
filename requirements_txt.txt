@@ -1,0 +1,13 @@
+# Python package requirements for Airline Price Calculator
+# Compatible with Python 3.8+
+
+# Core dependencies
+pandas==2.0.3
+openpyxl==3.1.2
+
+# For desktop version (Tkinter is built-in with Python)
+# No additional packages needed for Tkinter
+
+# For potential future enhancements
+# xlsxwriter==3.1.2  # Alternative Excel writer
+# numpy==1.24.3      # If numerical operations are needed
